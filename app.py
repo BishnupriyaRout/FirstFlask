@@ -58,7 +58,7 @@ def delete(sno):
 
 @app.route("/")
 def HelloWorld():
-    return "Hello, Welcome to my first Flask program!  Here you will learn some basic Flask, python, Bootstrap, html functionality. And please don't forget to go to /product page for the developed website."
+    return "Hello, Welcome to my first Flask program!  Here you will learn some basic Flask, python, Bootstrap, html functionality. And please don't forget to go to /products page for the developed website."
 
 
 if __name__ == "__main__":
